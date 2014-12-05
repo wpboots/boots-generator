@@ -1,0 +1,28 @@
+{
+  "name": "generator-boots",
+  "version": "0.1.0",
+  "description": "Installer/generator for boots wordpress framework.",
+  "keywords": [
+    "yeoman-generator",
+    "boots",
+    "framework"
+  ],
+  "author": "Kamal Khan <shout@bhittani.com> (http://bhittani.com/)",
+  "homepage": "http://wpboots.com",
+  "license": "GPLv2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpboots/boots-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wpboots/boots-generator/issues"
+  },
+  "dependencies": {
+    "yeoman-generator": "^0.18.3"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

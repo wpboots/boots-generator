@@ -1,0 +1,16 @@
+{
+    "name": "<%= vendor %>/<%= name %>",
+    "type": "boots-extension",
+    "description": "<%= description %>",
+    "keywords": ["boots","wordpress","<%= name %>","utility"],
+    "homepage": "<%= homepage %>",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "<%= author %>",
+            "email": "<%= email %>",
+            "homepage": "<%= authorurl %>",
+            "role": "Developer"
+        }
+    ]
+}
